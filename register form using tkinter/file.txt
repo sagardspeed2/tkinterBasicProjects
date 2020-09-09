@@ -1,0 +1,6 @@
+sagar,20,sagardspeed2@gmail.com,Male,Student,YES
+Gautam,18,dispiredcomputerinfo@gmail.com,Male,Student,YES
+sagar,20,sagar,Male,Student,YES
+sagar,20,sagar,Male,Student,YES
+sagar,20,sagar,Male,Student,NO
+sagar,20,sagar,Male,Student,NO
